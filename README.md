@@ -1,1 +1,1 @@
-# Aplica-oDjango
+# Aplicando o Django
